@@ -1,6 +1,15 @@
 # Notas:
 Este es mi primer programa en Node
-Correr el comando npm install o npm i para recrear los paquetes node
+Correr el comando 
+```
+npm install
+```
+ o 
+ ```
+ npm i
+ 
+ ```
+  para recrear los paquetes node
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
